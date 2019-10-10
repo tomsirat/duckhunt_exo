@@ -41,4 +41,3 @@ function killDuck(event){
 }
 
 target.addEventListener("click", killDuck);
-
